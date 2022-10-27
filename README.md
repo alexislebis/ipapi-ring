@@ -8,7 +8,7 @@ RING repository for IPAPI, bindings all the problem activities.
 * [Un pompeux barrage](https://github.com/alexislebis/ipapi-barrage)
 * [La vie en automate](https://github.com/alexislebis/ipapi-GoL)
 * [Logistique de vos courriers](https://github.com/alexislebis/ipapi-logistic)
-* [Mystère, mystère](https://github.com/alexislebis/ipapi-nbmyst)
-* [Les bons vieux J-RPG](https://github.com/alexislebis/ipapi-jrpg)
+* [Mystère, mystère](https://github.com/alexislebis/ipapi-game-nbmyst)
+* [Les bons vieux J-RPG](https://github.com/alexislebis/ipapi-game-jrpg)
 
 > One repository to rule them all, One repository to find them all, One repository to bring them all and in git bind them.
